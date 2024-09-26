@@ -106,8 +106,11 @@ NONNULL에서는 자신의 논문을 등록하여 여러 연구 활동에 공헌
 
 ## 5. 산출물
 ### 기능 명세서
+![image](https://github.com/user-attachments/assets/39baf6bc-16ef-45d1-a73d-a0437dea08fb)
 
 ### 요구사항 정의서
+![image](https://github.com/user-attachments/assets/5f65fe22-5d01-44f8-acd8-8aa268c0d9bf)
+![image](https://github.com/user-attachments/assets/840b74db-9540-47d9-9677-7eeb86dc0947)
 
 ## 6. ERD
 ![project5_502_MSA2](https://github.com/user-attachments/assets/633874e7-6be8-4c70-a38a-3e0742f14b70)
